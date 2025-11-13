@@ -50,6 +50,14 @@ function App() {
 />
 
 <Onepiece 
+  name="Usopp" 
+  role="Sniper" 
+  bounty="500,000,000 ฿" 
+  description="The sniper of the Straw Hat Pirates, known for his sharpshooting skills and creativity in battle." 
+  image={ussopImage} 
+/>
+
+<Onepiece 
   name="Vinsmoke Sanji" 
   role="Cook" 
   bounty="1,032,000,000 ฿" 
@@ -79,14 +87,6 @@ function App() {
   bounty="394,000,000 ฿" 
   description="The cyborg shipwright who built the Thousand Sunny." 
   image={frankyImage} 
-/>
-
-<Onepiece 
-  name="Usopp" 
-  role="Sniper" 
-  bounty="500,000,000 ฿" 
-  description="The sniper of the Straw Hat Pirates, known for his sharpshooting skills and creativity in battle." 
-  image={ussopImage} 
 />
 
 <Onepiece 
